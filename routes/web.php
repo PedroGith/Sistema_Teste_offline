@@ -16,6 +16,6 @@ Route::get('/produto/novo', [ProdutoController::class, 'novo']);
 
 
 Route::get('/', function () {
-    return view('home');
+    return view('index');
 });
 
