@@ -9,19 +9,18 @@
 <body>
 
 <header>
-    <h1>Bem-vindo ao Sistema de Cadastro de Stoque de produtos farmaucéticos</h1>
-    <p>CEFAS - Farmaucético</p>
+    <h1>Bem-vindo ao Sistema de Stoque de Produtos Farmaucéticos</h1>
+    <p>CEFAS - Farmaucéticos</p>
 </header>
 
 <nav>
     <a href="#">Início</a>
     <a href="/produto/novo">Cadastrar</a>
-    
 </nav>
 
 <main>
     <h2>Cuidamos da sua saúde</h2>
-    <p>Compre medicamentos com qualidade na nossa Loja.</p>
+    <p>Compre medicamentos de qualidade na nossa Loja.</p>
 </main>
 
 <footer>
