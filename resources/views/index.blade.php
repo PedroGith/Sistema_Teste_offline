@@ -20,7 +20,7 @@
 
 <main>
     <h2>Cuidamos da sua saúde</h2>
-    <p>Compre medicamentos de qualidade na nossa Loja.</p>
+    <p>Compre medicamentos de qualidade na nossa Loja!</p>
 </main>
 
 <footer>

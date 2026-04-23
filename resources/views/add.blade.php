@@ -23,7 +23,7 @@
             <option value="analgesico">Analgésico</option>
             <option value="antibiotico">Antibiótico</option>
             <option value="antiinflamatorio">Anti-inflamatório</option>
-            <option value="outro">Outro</option>
+            <option value="outro">Outro</option> 
         </select><br><br>
 
         Dosagem:<br>
